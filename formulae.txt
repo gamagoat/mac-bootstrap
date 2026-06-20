@@ -1,0 +1,8 @@
+fzf
+gh
+git
+lazygit
+nvim
+ripgrep
+starship
+zoxide
